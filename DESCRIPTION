@@ -1,0 +1,19 @@
+Package: sourrr
+Title: Calculate baker's percentages for sourdough bread
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Andrew",
+           family = "Heiss",
+           role = c("aut", "cre"),
+           email = "andrew@andrewheiss.com",
+           comment = c(ORCID = "https://orcid.org/0000-0002-3948-3914"))
+Description: Calculate baker's percentages for sourdough bread.
+License: MIT + file LICENSE
+Imports:
+    glue
+Suggests: 
+    testthat
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
