@@ -65,7 +65,7 @@ If you have an existing recipe, you can use the `calculate_recipe()`
 function to determine the hydration level:
 
 ``` r
-calculate_recipe(flour = 450,  water = 320,
+calculate_recipe(flour = 450, water = 320,
                  starter = 100, starter_hydration = 1, salt = 8)
 #> 450g flour (500g total; 50g from starter)
 #> 320g water (370g total; 50g from starter)

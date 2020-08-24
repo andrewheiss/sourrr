@@ -53,6 +53,6 @@ For now, it's not 100% correct because I add the salt to the final loaf weight. 
 If you have an existing recipe, you can use the `calculate_recipe()` function to determine the hydration level:
 
 ```{r}
-calculate_recipe(flour = 450,  water = 320,
+calculate_recipe(flour = 450, water = 320,
                  starter = 100, starter_hydration = 1, salt = 8)
 ```
