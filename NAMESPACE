@@ -2,3 +2,4 @@
 
 export(build_recipe)
 export(calculate_recipe)
+export(feeding_from_ratio)
